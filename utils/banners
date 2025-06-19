@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/usr/bin/env bash -x
 
 print_prepare_banner() {
 	c_info "Preparing device..."

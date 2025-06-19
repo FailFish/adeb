@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/usr/bin/env bash -x
 set -e
 
 if [[ $EUID -ne 0 ]]; then

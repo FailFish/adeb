@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script should run within a bcc checkout
 
 spath=$( cd "$(dirname "$0")" ; pwd -P )

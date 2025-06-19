@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This is run in the bcc directory of the chroot
 
 cd bcc-master
