@@ -2,7 +2,7 @@ PACKAGES+="\
 git
 clang
 llvm
-bintools
+binutils
 gcc
 libtool
 autoconf
